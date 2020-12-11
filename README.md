@@ -1,24 +1,21 @@
-# animation-showcase
+# Animation-Showcase
+[![GitHub Release](https://img.shields.io/github/release/zjayers/animation-showcase.svg?style=flat)]()
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/animation-showcase.svg?style=flat)]()
+[![Issues](https://img.shields.io/github/issues-raw/zjayers/animation-showcase.svg?maxAge=25000)](https://github.com/zjayers/animation-showcase/issues)
+[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/animation-showcase/blob/master/LICENSEs)
 
-## Project setup
-```
-npm install
-```
+## Description
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+> Work in progress
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Features
 
-### Lints and fixes files
-```
-npm run lint
-```
+> Work in progress
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Installation
+
+> Work in progress
+
+## Usage
+
+> Work in progress
